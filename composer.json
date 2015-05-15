@@ -1,0 +1,13 @@
+{
+    "name": "sibridge/simple-admin",
+    "description": "As proof of concept to develop L5 custom package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mayur Bhatt",
+            "email": "mayur.bhatt@sibridgetech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
